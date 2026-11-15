@@ -1,0 +1,118 @@
+src/App.tsx:102: trailing whitespace.
+[32m+[m[41m  [m
+src/components/AppShell.tsx:181: trailing whitespace.
+[32m+[m[32m              <div[m[41m [m
+src/components/AuthModal.tsx:78: trailing whitespace.
+[32m+[m[41m      [m
+src/components/AuthModal.tsx:115: trailing whitespace.
+[32m+[m[32m      <div[m[41m [m
+src/services/env/nasaPower.ts:56: trailing whitespace.
+[32m+[m[41m  [m
+supabase/migrations/20261114100001_core_functions_and_profiles.sql:6: trailing whitespace.
+[32m+[m[32mRETURNS TRIGGER[m[41m [m
+supabase/migrations/20261114100001_core_functions_and_profiles.sql:26: trailing whitespace.
+[32m+[m[32m    preferred_unit_system TEXT NOT NULL DEFAULT 'metric'[m[41m [m
+supabase/migrations/20261114100001_core_functions_and_profiles.sql:39: trailing whitespace.
+[32m+[m[32mRETURNS TRIGGER[m[41m [m
+supabase/migrations/20261114100001_core_functions_and_profiles.sql:46: trailing whitespace.
+[32m+[m[32m        id,[m[41m [m
+supabase/migrations/20261114100001_core_functions_and_profiles.sql:47: trailing whitespace.
+[32m+[m[32m        full_name,[m[41m [m
+supabase/migrations/20261114100001_core_functions_and_profiles.sql:48: trailing whitespace.
+[32m+[m[32m        preferred_unit_system,[m[41m [m
+supabase/migrations/20261114100002_farms_and_fields.sql:73: trailing whitespace.
+[32m+[m[41m    [m
+supabase/migrations/20261114100002_farms_and_fields.sql:76: trailing whitespace.
+[32m+[m[32m        'clay', 'sandy_clay', 'silty_clay', 'clay_loam', 'sandy_clay_loam',[m[41m [m
+supabase/migrations/20261114100002_farms_and_fields.sql:84: trailing whitespace.
+[32m+[m[41m    [m
+supabase/migrations/20261114100002_farms_and_fields.sql:90: trailing whitespace.
+[32m+[m[41m    [m
+supabase/migrations/20261114100002_farms_and_fields.sql:93: trailing whitespace.
+[32m+[m[32m        (latitude IS NULL AND longitude IS NULL) OR[m[41m [m
+supabase/migrations/20261114100003_soil_samples.sql:14: trailing whitespace.
+[32m+[m[32m        'clay', 'sandy_clay', 'silty_clay', 'clay_loam', 'sandy_clay_loam',[m[41m [m
+supabase/migrations/20261114100003_soil_samples.sql:22: trailing whitespace.
+[32m+[m[41m    [m
+supabase/migrations/20261114100003_soil_samples.sql:26: trailing whitespace.
+[32m+[m[41m    [m
+supabase/migrations/20261114100003_soil_samples.sql:33: trailing whitespace.
+[32m+[m[41m    [m
+supabase/migrations/20261114100003_soil_samples.sql:40: trailing whitespace.
+[32m+[m[41m    [m
+supabase/migrations/20261114100003_soil_samples.sql:47: trailing whitespace.
+[32m+[m[41m    [m
+supabase/migrations/20261114100004_crop_species_and_regional_profiles.sql:11: trailing whitespace.
+[32m+[m[41m    [m
+supabase/migrations/20261114100004_crop_species_and_regional_profiles.sql:22: trailing whitespace.
+[32m+[m[41m    [m
+supabase/migrations/20261114100004_crop_species_and_regional_profiles.sql:48: trailing whitespace.
+[32m+[m[41m    [m
+supabase/migrations/20261114100004_crop_species_and_regional_profiles.sql:50: trailing whitespace.
+[32m+[m[32m    validation_status TEXT NOT NULL DEFAULT 'provisional'[m[41m [m
+supabase/migrations/20261114100006_rotation_planning_engine.sql:13: trailing whitespace.
+[32m+[m[41m    [m
+supabase/migrations/20261114100006_rotation_planning_engine.sql:20: trailing whitespace.
+[32m+[m[41m    [m
+supabase/migrations/20261114100006_rotation_planning_engine.sql:25: trailing whitespace.
+[32m+[m[41m    [m
+supabase/migrations/20261114100006_rotation_planning_engine.sql:31: trailing whitespace.
+[32m+[m[41m    [m
+supabase/migrations/20261114100006_rotation_planning_engine.sql:35: trailing whitespace.
+[32m+[m[41m    [m
+supabase/migrations/20261114100006_rotation_planning_engine.sql:38: trailing whitespace.
+[32m+[m[41m    [m
+supabase/migrations/20261114100006_rotation_planning_engine.sql:86: trailing whitespace.
+[32m+[m[32mRETURNS TRIGGER[m[41m [m
+supabase/migrations/20261114100006_rotation_planning_engine.sql:201: trailing whitespace.
+[32m+[m[32m        IF v_season_elem->>'season_order' IS NULL OR[m[41m [m
+supabase/migrations/20261114100006_rotation_planning_engine.sql:202: trailing whitespace.
+[32m+[m[32m           (v_season_elem->>'season_order')::INT < 1 OR[m[41m [m
+supabase/migrations/20261114100006_rotation_planning_engine.sql:300: trailing whitespace.
+[32m+[m[32m        CASE WHEN s->>'crop_regional_profile_id' IS NOT NULL[m[41m [m
+supabase/migrations/20261114100007_data_sources_and_observations.sql:22: trailing whitespace.
+[32m+[m[41m    [m
+supabase/migrations/20261114100007_data_sources_and_observations.sql:29: trailing whitespace.
+[32m+[m[41m    [m
+supabase/migrations/20261114100007_data_sources_and_observations.sql:33: trailing whitespace.
+[32m+[m[41m    [m
+supabase/migrations/20261114100007_data_sources_and_observations.sql:38: trailing whitespace.
+[32m+[m[41m    [m
+supabase/migrations/20261114100007_data_sources_and_observations.sql:48: trailing whitespace.
+[32m+[m[41m    [m
+supabase/migrations/20261114100007_data_sources_and_observations.sql:56: trailing whitespace.
+[32m+[m[41m    [m
+supabase/migrations/20261114100007_data_sources_and_observations.sql:62: trailing whitespace.
+[32m+[m[41m    [m
+supabase/migrations/20261114100007_data_sources_and_observations.sql:68: trailing whitespace.
+[32m+[m[41m    [m
+supabase/migrations/20261114100007_data_sources_and_observations.sql:74: trailing whitespace.
+[32m+[m[41m    [m
+supabase/migrations/20261114100007_data_sources_and_observations.sql:88: trailing whitespace.
+[32m+[m[32mCREATE INDEX idx_env_obs_forecast_run ON public.environmental_observations(field_id, forecast_reference_timestamp)[m[41m [m
+supabase/migrations/20261114100008_rls_and_privileges_lockdown.sql:64: trailing whitespace.
+[32m+[m[32mCREATE POLICY profiles_select ON public.profiles FOR SELECT TO authenticated[m[41m [m
+supabase/migrations/20261114100008_rls_and_privileges_lockdown.sql:66: trailing whitespace.
+[32m+[m[32mCREATE POLICY profiles_update ON public.profiles FOR UPDATE TO authenticated[m[41m [m
+supabase/migrations/20261114100008_rls_and_privileges_lockdown.sql:70: trailing whitespace.
+[32m+[m[32mCREATE POLICY farms_select ON public.farms FOR SELECT TO authenticated[m[41m [m
+supabase/migrations/20261114100008_rls_and_privileges_lockdown.sql:72: trailing whitespace.
+[32m+[m[32mCREATE POLICY farms_insert ON public.farms FOR INSERT TO authenticated[m[41m [m
+supabase/migrations/20261114100008_rls_and_privileges_lockdown.sql:74: trailing whitespace.
+[32m+[m[32mCREATE POLICY farms_update ON public.farms FOR UPDATE TO authenticated[m[41m [m
+supabase/migrations/20261114100008_rls_and_privileges_lockdown.sql:76: trailing whitespace.
+[32m+[m[32mCREATE POLICY farms_delete ON public.farms FOR DELETE TO authenticated[m[41m [m
+supabase/migrations/20261114100008_rls_and_privileges_lockdown.sql:80: trailing whitespace.
+[32m+[m[32mCREATE POLICY fields_select ON public.fields FOR SELECT TO authenticated[m[41m [m
+supabase/migrations/20261114100008_rls_and_privileges_lockdown.sql:82: trailing whitespace.
+[32m+[m[32mCREATE POLICY fields_insert ON public.fields FOR INSERT TO authenticated[m[41m [m
+supabase/migrations/20261114100008_rls_and_privileges_lockdown.sql:84: trailing whitespace.
+[32m+[m[32mCREATE POLICY fields_update ON public.fields FOR UPDATE TO authenticated[m[41m [m
+supabase/migrations/20261114100008_rls_and_privileges_lockdown.sql:87: trailing whitespace.
+[32m+[m[32mCREATE POLICY fields_delete ON public.fields FOR DELETE TO authenticated[m[41m [m
+supabase/migrations/20261114100008_rls_and_privileges_lockdown.sql:91: trailing whitespace.
+[32m+[m[32mCREATE POLICY soil_samples_select ON public.soil_samples FOR SELECT TO authenticated[m[41m [m
+supabase/migrations/20261114100008_rls_and_privileges_lockdown.sql:93: trailing whitespace.
+[32m+[m[32mCREATE POLICY soil_samples_insert ON public.soil_samples FOR INSERT TO authenticated[m[41m [m
+supabase/migrations/20261114100008_rls_and_privileges_lockdown.sql:95: trailing whitespace.
+[32m+[m[32mCREATE POLICY soil_samples_update ON public.s
